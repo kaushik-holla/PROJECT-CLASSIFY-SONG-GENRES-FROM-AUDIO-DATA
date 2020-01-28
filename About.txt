@@ -1,0 +1,1 @@
+Using a dataset comprised of songs of music genres, Trained a classifier to distinguish between the genres based only on track information derived from Echonest dataset using Principal Component Analysis, Logistic Regression and Random Forest Machine Learning algorithms.
